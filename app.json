@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "App_Native",
+    "slug": "App_Native",
+    "extra": {
+      "eas": {
+        "projectId": "3eaf633f-402b-4f14-b100-13b9d251f7bc"
+      }
+    },
+    "android": {
+      "package": "com.chandasimaiya.App_Native"
+    }
+  }
+}
